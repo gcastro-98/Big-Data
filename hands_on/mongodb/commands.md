@@ -1,0 +1,1 @@
+docker run -p 27017:27017 -v C:\Users\gerar\FPDS\Big-Data\hands_on\mongodb:/data/db mongo
