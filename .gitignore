@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Others
+hands_on/spark-advanced/access_log_Aug95
+
 # C extensions
 *.so
 
