@@ -5,6 +5,7 @@ __pycache__/
 
 # Others
 hands_on/spark-advanced/access_log_Aug95
+assignments/batch-ml-deploy
 
 # C extensions
 *.so
